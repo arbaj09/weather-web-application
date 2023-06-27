@@ -1,0 +1,45 @@
+.Input-Wraper{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+}
+.Form-control{
+    gap: 1rem
+    ;
+
+   
+    
+    flex-direction: column;
+    display: flex;
+
+    margin-top: 2rem
+;
+    justify-content: center;
+}
+.Form-control input{
+
+    
+    border-radius: 1rem;
+    font-size: xx-large;
+    border: 3px solid cornflowerblue;
+    color: black;
+
+    height: 3rem;
+}
+    
+
+.Form-control button{
+    
+    border-radius: 1rem;
+    font-size: xx-large;
+   
+    color: aliceblue;
+    background: black;
+    height: 3rem;
+}
+
+
